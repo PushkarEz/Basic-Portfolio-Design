@@ -12,11 +12,3 @@ This project is a modern web application designed to showcase my skills and proj
 - Easy navigation and user-friendly layout.
 
 This project reflects my coding and design skills, combining my background in front-end and back-end development to create a comprehensive portfolio.
-
-## Installation
-
-To get started with the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
